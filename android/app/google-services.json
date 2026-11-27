@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876953624531",
+    "project_id": "pemrogmobile-a2163",
+    "storage_bucket": "pemrogmobile-a2163.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876953624531:android:57bfd6900a3a9abe3a1926",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmb62zc1yTwJtj-2UGF5D82PjkmvXQxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
