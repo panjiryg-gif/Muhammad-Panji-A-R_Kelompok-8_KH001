@@ -1,0 +1,8 @@
+# Tambahkan di pubspec.yaml bagian dependencies:
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+# Lalu jalankan: flutter pub get
+# Android: pastikan <uses-permission android:name="android.permission.INTERNET"/> ada di AndroidManifest.xml
